@@ -1,0 +1,20 @@
+//importing useState hook
+
+//tasks will be having the initial array which is an empty array
+//setTasks is an updater function
+//newTask hold the current value of input field which is empty
+//setNewTask updates it
+
+  
+{/* {task.completed: Determines whether the task is completed or not.
+// handleToggleTask(index): Toggles the completion status of a task when the checkbox is clicked.
+// Styling the task text: Uses the textDecoration property to apply a line-through style for completed tasks.
+// handleDeleteTask(index): Removes a task when the delete button is clicked.} */}
+        
+{/* //apply css
+//distribute the code into respective folders  */}
+
+
+
+//tasks will hold an array
+//setTasks will update the array
